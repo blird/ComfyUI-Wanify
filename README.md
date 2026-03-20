@@ -45,6 +45,3 @@ Outputs:
 ## Requirements
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
 - PyTorch (ComfyUI default)
-
-## License
-[Add your license here] 
